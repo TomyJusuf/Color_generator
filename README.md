@@ -1,3 +1,3 @@
-#### Values JS
+Simple color generator with javascript
 
-[values.js](https://github.com/noeldelgado/values.js)
+
